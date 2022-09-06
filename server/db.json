@@ -1,0 +1,88 @@
+{
+    "quiz":[
+        {
+          "title": "Оцените работу дизайнера",
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "response": [],
+          "path": false
+        },
+        {
+          "title": "Оцените работу дизайнера2",
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "response": [],
+          "path": false
+        },
+        {
+          "title": "Оцените работу дизайнера3",
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "response": [],
+          "path": false
+        },
+        {
+          "title": "Оцените работу дизайнера4",
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "response": [],
+          "path": false
+        },
+        {
+          "title": "Оцените работу дизайнера5",
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "response": [],
+          "path": false
+        },
+        {
+          "title": "Оцените работу дизайнера6",
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "response": [],
+          "path": false
+        },
+        {
+          "title": "Оцените работу дизайнера7",
+          "variants": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "response": [],
+          "path": false
+        }
+      ]
+}
